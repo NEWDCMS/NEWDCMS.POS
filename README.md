@@ -1,4 +1,4 @@
-# DCMS.POS
+# NEWDCMS.POS
 A cross platform new retail purchase, sales, and Inventory management system based on mudblazor and built under MAUI
 
 ## Chrome
